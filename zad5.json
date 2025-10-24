@@ -4,6 +4,41 @@
         "obroty": 1200000000,
         "liczba uzytkownikow": "12mil",
         "kolor logo": "czarny",
-        ""
+        "skort": "nie istnieje"
+    },
+    {
+        "nazwa": "youtube",
+        "obroty": 4700000,
+        "liczba uzytkownikow": "1mld",
+        "kolor logo": "czerwony",
+        "skrot": "yt"
+    },
+    {
+        "nazwa": "facebook",
+        "obroty": 67000000,
+        "liczba uzytkownikow": "3mld",
+        "kolor logo": "nibieski",
+        "skrot": "fb"
+    },
+    {
+        "nazwa": "twich",
+        "obroty": 12000000,
+        "liczba uzytkownikow": "120mln",
+        "kolor logo": "fioletowy",
+        "skrot": "ttv"
+    },
+    {
+        "nazwa": "instagram",
+        "obroty": 685345347,
+        "liczba uzytkownikow": "356mln",
+        "kolor logo": "żółty",
+        "skrot": "insta"
+    },
+    {
+        "nazwa": "LinkedIn",
+        "obroty": 1237649234,
+        "liczba uzytkownikow": "20mln",
+        "kolor logo": "niebieski",
+        "skrot": "nie istnieje"     
     }
 ]
