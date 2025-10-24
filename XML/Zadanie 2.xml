@@ -1,0 +1,34 @@
+<root>
+    <Facebook>
+        <users>2312312</users>
+        <application>yes</application>
+        <owner>Meta</owner>
+        <IDREQ>No</IDREQ>
+    </Facebook>
+    
+    <Instagram>
+        <users>2312312</users>
+        <application>yes</application>
+        <owner>Meta</owner>
+        <IDREQ>No</IDREQ>
+    </Instagram>
+
+    <X>
+        <users>2312312</users>
+        <application>yes</application>
+        <owner>Meta</owner>
+        <IDREQ>No</IDREQ>
+    </X>
+
+    <Reels>
+        <users>2312312</users>
+        <application>yes</application>
+        <owner>Meta</owner>
+        <IDREQ>No</IDREQ>
+    </Reels>
+
+
+
+
+
+</root>
