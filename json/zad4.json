@@ -1,0 +1,15 @@
+{
+    "nazwa": "facebook",
+    "liczba uzytkownikow": 120000000,
+    "rodzaje publikacji": ["zdjecia", "tekst"],
+    "dostep dla niezalogowanych uzytkownikow": true,
+    "dane logowania": {
+        "email": true,
+        "telefon": true,
+        "haslo": true,
+        "imie nazwisko": false
+    },
+    "dominujacy kolor loga": "niebieski",
+    "firma": "meta",
+    "obroty firmy": 2987997483.9834
+}
